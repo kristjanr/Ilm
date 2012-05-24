@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EMHI Ilmateade</string>
+    <string name="url">http://www.emhi.ee/ilma_andmed/xml/forecast.php</string>
+    <string name="day">PÄEV:</string>
+    <string name="night">ÖÖ:</string>
+    <string name="minTemp">Min. temp (C°):</string>
+    <string name="maxTemp">Max. temp (C°): </string>
+    <string name="cleardb">Tühjenda andmebaas</string>
+    <string name="listen">Kuula viimast prognoosi</string>
+    <string name="urlMp3">http://ilm.err.ee/cache/raadio.xml</string>
+</resources>

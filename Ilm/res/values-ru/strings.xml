@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды EMHI</string>
+    <string name="url">http://www.emhi.ee/ilma_andmed/xml/forecast.php?lang=rus</string>
+    <string name="day">день:</string>
+    <string name="night">ночь:</string>
+    <string name="minTemp">мин. темп. (C°):</string>
+    <string name="maxTemp">макс. темп (C°): </string>
+    <string name="cleardb">удалить базу данных</string>
+    <string name="listen">Слушайте последний прогноз</string>
+    <string name="urlMp3">http://ilm.err.ee/cache/raadio.xml</string>
+</resources>

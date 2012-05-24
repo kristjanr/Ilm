@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EMHI Weather forecast</string>
+    <string name="url">http://emhi.ee/ilma_andmed/xml/forecast.php?lang=eng</string>
+    <string name="day">DAY:</string>
+    <string name="night">NIGHT:</string>
+    <string name="minTemp">Min. temp (C°):</string>
+    <string name="maxTemp">Max. temp (C°): </string>
+    <string name="cleardb">Clear Database</string>
+    <string name="listen">Listen to the last prognosis</string>
+    <string name="urlMp3">http://ilm.err.ee/cache/raadio.xml</string>
+    <string name="noNetwork">No network!</string>
+    <string name="quit">Quit</string>
+</resources>
